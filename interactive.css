@@ -1,0 +1,22 @@
+.storyTeller {
+	   height: 50px; 
+	   background: #fff;
+	}
+.overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 60px;
+    background: rgba(240, 0, 0, 0.7);
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
